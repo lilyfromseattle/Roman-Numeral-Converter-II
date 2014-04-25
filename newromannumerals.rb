@@ -1,4 +1,4 @@
-def old_roman_numerals(num)
+def new_roman_numerals(num)
     numstring = num.to_s
 	numarray1 = numstring.split(//)
     numarray = Array.new
